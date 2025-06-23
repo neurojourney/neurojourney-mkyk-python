@@ -36,19 +36,6 @@ The requirements for this project are:
 
 <br/>
 
-## Solutions
-| Solutions                                                                                                           | Description                                                                                                     |
-|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| [Brain](https://github.com/emotionist/emotionist-python/tree/master/emotionist/solutions/brain/README.md)           | Analyze brain waves from EEG signals based on emotions.                                                         |
-| [Content](https://github.com/emotionist/emotionist-python/tree/master/emotionist/solutions/content/README.md)       | Analyze image and sound features and recognize emotions from content video.                                     |
-| [Face](https://github.com/emotionist/emotionist-python/tree/master/emotionist/solutions/face/README.md)             | Detect face, analyze facial action unit and recognize facial expression.                                        |
-| [Gaze Pupil](https://github.com/emotionist/emotionist-python/tree/master/emotionist/solutions/gaze_pupil/README.md) | Analyze gaze and pupil features and recognize emotions.                                                         |
-| [Heart](https://github.com/emotionist/emotionist-python/tree/master/emotionist/solutions/heart/README.md)           | Measure heart rate, analyze heart rate variability and recognize emotions from biosignal.                       |
-| [Pose](https://github.com/emotionist/emotionist-python/tree/master/emotionist/solutions/pose/README.md)             | Detect pose landmark and analyze pose joint, pose distance and pose alignment.                                  |
-| [RPPG](https://github.com/emotionist/emotionist-python/tree/master/emotionist/solutions/rppg/README.md)             | Estimate biosignal, analyze heart rate variability and recognize emotions using a camera or from frontal video. |
-
-<br/>
-
 ## Installation
 
 ### Step 1: Clone this repository and move directory
@@ -68,7 +55,6 @@ Please install third-party libraries using [requirements.txt](https://github.com
 ```
 pip install -r requirements.txt
 ```
-
 
 ## Run APp
 
