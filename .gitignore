@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+*__pycache__
+venv/*
+venv_deploy/*
+logs/*
+samples/*
+docs/*
+dist/*
+calculators/*
+dataset/*
+formats/*
+utils/*
+const.py
+main.py
